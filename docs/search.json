@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "about",
+    "section": "",
+    "text": "Charis Chow\nCharis is currently pursuing a Bachelor of Psychology at the National University of Singapore. Coupled with her interest in trauma psychology and a heart for the marginalised, particularly women and children who have been a victim of crime, she has been actively involved in both volunteering in her community and in research projects. This website provides a visual outlet to document the trends that she notices in mental health."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mental Health Visualisation",
+    "section": "",
+    "text": "Introduction\nThis application aims to provide a visualization of certain factors and data of mental health. It has the potential to reveal and inform on potential risk factors as they may have a higher correlation with mental health conditions.\n\n\nData Set\nThis application makes use of 1 dataset, the “Mental Health Dataset” found on Kaggle by Bhavik Jikadara."
+  },
+  {
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
+    "title": "Mental Health",
+    "section": "",
+    "text": "This application visualises data related to mental health"
+  }
+]

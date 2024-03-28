@@ -1,0 +1,10 @@
+---
+title: "Mental Health Visualisation"
+---
+### Introduction
+This application aims to provide a visualization of certain factors and data of mental health. It has the potential to reveal and inform on potential risk factors as they may have a higher correlation with mental health conditions.
+
+### Data Set
+This application makes use of 1 dataset, the "Mental Health Dataset" found on Kaggle by Bhavik Jikadara.
+
+<iframe height="400" width="100%" frameborder="no" src="https://charischowhn.shinyapps.io/final_project/"> </iframe>

@@ -1,0 +1,11 @@
+---
+title: "about"
+---
+
+```{r, eval=TRUE,echo=FALSE}
+#| out.width="100%"
+knitr::include_graphics("/Users/charischow/Downloads/about.png")
+```
+### Charis Chow
+Charis is currently pursuing a Bachelor of Psychology at the National University of Singapore. Coupled with her interest in trauma psychology and a heart for the marginalised, particularly women and children who have been a victim of crime, she has been actively involved in both volunteering in her community and in research projects. This website provides a visual outlet to document the trends that she notices in mental health.
+
