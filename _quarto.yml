@@ -1,9 +1,8 @@
 project:
   type: website
-  output-dir: docs
 
 website:
-  title: "Charis Chow"
+  title: "charischowhn.github.io"
   navbar:
     left:
       - href: index.qmd
@@ -12,7 +11,7 @@ website:
 
 format:
   html:
-    theme: lux
+    theme: cosmo
     css: styles.css
     toc: true
 

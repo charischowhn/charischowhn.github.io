@@ -1,6 +1,7 @@
 ---
-title: "Mental Health Visualisation"
+title: "Charis Chow"
 ---
+
 ### Introduction
 This application aims to provide a visualization of certain factors and data of mental health. It has the potential to reveal and inform on potential risk factors as they may have a higher correlation with mental health conditions.
 
