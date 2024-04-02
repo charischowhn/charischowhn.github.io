@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Charis Chow",
+    "section": "",
+    "text": "Introduction\nThis application aims to provide a visualization of certain factors and data of mental health. It has the potential to reveal and inform on potential risk factors as they may have a higher correlation with mental health conditions.\n\n\nData Set\nThis application makes use of 1 dataset, the “Mental Health Dataset” found on Kaggle by Bhavik Jikadara."
+  }
+]
