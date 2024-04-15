@@ -1,7 +1,7 @@
 {
-  "hash": "23cb76300fac99b6c11d854799dabf18",
+  "hash": "c08cc0d191aec8e1615bdbcb070a4555",
   "result": {
-    "markdown": "---\ntitle: \"About\"\n---\n\n::: {.cell}\n::: {.cell-output-display}\n![](../about.png){width=100%}\n:::\n:::\n\n### Charis Chow\nCharis is currently pursuing a Bachelor of Psychology at the National University of Singapore. Coupled with her interest in trauma psychology and a heart for the marginalised, particularly women and children who have been a victim of crime, she has been actively involved in both volunteering in her community and in research projects. This website provides a visual outlet to document the trends that she notices in mental health.\n",
+    "markdown": "---\ntitle: \"About\"\n---\n\n::: {.cell}\n::: {.cell-output-display}\n![](../about.png){width=100%}\n:::\n:::\n\n\n### Charis Chow\n\nCharis is currently pursuing a Bachelor of Psychology at the National University of Singapore. Coupled with her interest in trauma psychology and a heart for the marginalised, particularly women and children who have been a victim of crime, she has been actively involved in both volunteering in her community and in research projects. This website provides a visual outlet to document the trends that she notices in mental health.\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

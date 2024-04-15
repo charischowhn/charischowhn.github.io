@@ -1,24 +1,26 @@
 {
     "id": "C20D820D",
-    "path": "~/charischowhn.github.io/_quarto.yml",
+    "path": "~/Downloads/charischowhn.github.io/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
     "hash": "0",
     "contents": "",
-    "dirty": false,
+    "dirty": true,
     "created": 1711358920533.0,
     "source_on_save": false,
     "relative_order": 2,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "5,32",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1711358909,
+    "lastKnownWriteTime": 1711633786,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1711358909,
+    "last_content_update": 1713166222303,
     "read_only": false,
     "read_only_alternatives": []
 }
